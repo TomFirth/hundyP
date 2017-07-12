@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Hundy P Legit",
+  "description": "When 100% just isn't enough",
+  "version": "0.1",
+  "content_scripts": [{
+    "matches": [
+      "<all_urls>"
+    ],
+    "js": ["content.js"]
+  }]
+}
