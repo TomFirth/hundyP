@@ -1,4 +1,4 @@
-#### Hundy P Legit
+# Hundy P Legit
 
 When 100% isn't enough
 Chrome extension
